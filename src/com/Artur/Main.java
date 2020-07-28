@@ -22,7 +22,7 @@ public class Main {
         return s.nextInt();
     }
 
-    private static int getIntLYBYL(){
+    private static int getIntLBYL(){
         Scanner s = new Scanner(System.in);
         boolean isValid = true;
         System.out.print("enter an integer: ");
@@ -67,7 +67,7 @@ public class Main {
         }
     }
 
-    private static int divid(int x, int y){
+    private static int divide(int x, int y){
         return x / y;
     }
 
